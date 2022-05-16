@@ -1,6 +1,8 @@
 # LearnWebHacking
 Best Resources to Learn How to be Bug Bounty Hunter and earn $$ (from the home) by helping companies to secure the sites.
 
+note: I am not pro, but maybe i can help you from my experience <3
+
 # root@root#~ whoami
 
 I am Mahdi Jaber, or as you know me (<a href="https://github.com/Mr6MJT">Mr MJT</a>) in digital world, 16 Years old Bug Bounty Hunter and programmer and a Student who Learn every day new information in computer science,cyber security,sport,army training and shooting skills...
@@ -73,7 +75,11 @@ finally and the best resource to improve your skills in finding bugs is reading 
 
 
 
+# Dont be offensive, hack ethically 
+
+make sure to not be cyber criminal because you will catched :/
 
 # Never Give up
+
 if you have any question about bug hunting or need a help DM on telegram Maybe i can help you..
 telegram: @Mr6MJT
