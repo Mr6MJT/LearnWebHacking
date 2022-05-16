@@ -5,7 +5,7 @@ note: I am not pro, but maybe i can help you from my experience <3
 
 # root@root#~ whoami
 
-I am Mahdi Jaber, or as you know me (<a href="https://github.com/Mr6MJT">Mr MJT</a>) in digital world, 16 Years old Bug Bounty Hunter and programmer and a Student who Learn every day new information in computer science,cyber security,sport,army training and shooting skills...
+I am Mahdi Jaber, or as you know me (<a href="https://github.com/Mr6MJT">Mr MJT</a>) in digital world, 16 Years old Bug Bounty Hunter and programmer and a Student who Learns every day new information in computer science,cyber security,sport,army training and shooting skills...
 Currently Hunting vulnerabilities in <a href="https://hackerone.com">hackerone</a> platform, and working on my self to improve my skills in CyberSec.
 
 # What is Bug bounty? 
@@ -16,7 +16,7 @@ A bug bounty program is a deal offered by many websites, organizations and softw
 
 The bug hunter test a website/app to see if there is any security bug in it , after finding a bug he report it to the website/app owner to help him securing her/his software, then the software owner send a bounty for the hunter as a gift for helping him.
 
-# Bug bounty platforms (that pay for reporting bugs:) :
+# Bug bounty platforms (that pay for reporting bugs ^_*) :
 
 hackerone.com
 
@@ -38,7 +38,7 @@ First of all you should have computer science knowledge , <b>IN ORDER TO HACK A 
 
 I recommend you to learn HTML, CSS, JS, PHP, SQL QUERIES before diving into web security.
 
-Also you should learn about networking, how to use linux, web technologies
+Also you should learn about networking, how to use linux, web technologies....
 
 
 After that you are ready to start learning how to hack, but before learning how to exploit you should learn how the vulnerability arises.
@@ -58,20 +58,30 @@ before diving in the labs and resources learn the web vulnerabilities from owasp
 Thoose are some resources which you can learn web security in it:
 
 Websecurity academy                     https://portswigger.net/web-security/dashboard
+
 pentester lab                           https://pentesterlab.com/
+
 web hacking 101 book
+
 real world bug hunting book
+
 ebrahem hegazy arabic course            https://youtube.com/playlist?list=PLv7cogHXoVhXvHPzIl1dWtBiYUAL8baHj
+
 katie tips to find your first bug       https://youtube.com/playlist?list=PLbyncTkpno5FZQ3ZgpHj1BdQ7XHwfvO1w
+
 h101 by hackerone team                  https://youtube.com/playlist?list=PLxhvVyxYRviZd1oEA9nmnilY3PhVrt4nj
+
 orwa methodology                        https://youtube.com/playlist?list=PLiLvsecrejRhQ7lOGgZSga47Jwhf5YXwD
+
 How to hunt                             https://github.com/Mr6MJT/HowToHunt
+
 remonsec tips                           https://remonsec.com/
+
 Learn how to use burp suite tool 
-Go a head and install twitter and follow a Hackers you can increase your knowledge from the infosec tweets , also there is #bugbountytips trend in twitter which you can ask a questions there and read tips from pro hackers.
 
-finally and the best resource to improve your skills in finding bugs is reading writeups https://hackerone.com/hacktivity , https://pentester.land/list-of-bug-bounty-writeups.html which is wrote by hackers.
+Go a head and install twitter and follow Hackers,you can increase your knowledge from the infosec tweets , also there is #bugbountytips trend in twitter which you can ask a questions there and read tips from pro hackers.
 
+finally and the best resource to improve your skills in finding bugs is reading writeups and reports https://hackerone.com/hacktivity , https://pentester.land/list-of-bug-bounty-writeups.html .
 
 
 
