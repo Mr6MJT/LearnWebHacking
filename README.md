@@ -65,11 +65,10 @@ h101 by hackerone team                  https://youtube.com/playlist?list=PLxhvV
 orwa methodology                        https://youtube.com/playlist?list=PLiLvsecrejRhQ7lOGgZSga47Jwhf5YXwD
 How to hunt                             https://github.com/Mr6MJT/HowToHunt
 remonsec tips                           https://remonsec.com/
-
 Learn how to use burp suite tool 
+Go a head and install twitter and follow a Hackers you can increase your knowledge from the infosec tweets , also there is #bugbountytips trend in twitter which you can ask a questions there and read tips from pro hackers.
 
-
-finally and the best resource to improve your skills in finding bugs is reading writeups https://pentester.land/list-of-bug-bounty-writeups.html which is wrote by hackers.
+finally and the best resource to improve your skills in finding bugs is reading writeups https://hackerone.com/hacktivity , https://pentester.land/list-of-bug-bounty-writeups.html which is wrote by hackers.
 
 
 
